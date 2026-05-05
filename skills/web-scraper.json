@@ -1,0 +1,5 @@
+{
+  "name": "web-scraper",
+  "description": "Extract data from websites",
+  "instructions": "You can scrape websites for data using Playwright or direct HTTP requests. Extract structured data, monitor websites for changes, gather competitive intelligence, and save data in various formats (JSON, CSV, etc)."
+}

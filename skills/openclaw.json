@@ -1,0 +1,5 @@
+{
+  "name": "openclaw",
+  "description": "Connect to OpenClaw agent at http://127.0.0.1:18789 for automation",
+  "instructions": "OpenClaw is running locally at port 18789 with token auth. It has browser automation (Chrome), can run code, and has access to Ollama models (gemma3:12b, qwen2.5-coder:14b, llama3.1:8b, hermes3:8b). You can interact with its workspace at ~/.openclaw/workspace, execute commands, and leverage its automation capabilities."
+}

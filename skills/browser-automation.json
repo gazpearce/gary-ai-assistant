@@ -1,0 +1,5 @@
+{
+  "name": "browser-automation",
+  "description": "Automate browser tasks using Playwright or Puppeteer",
+  "instructions": "You can write scripts to automate browser tasks including: web scraping, form filling, screenshot capture, data extraction, testing web applications. Write Node.js scripts using Playwright or Puppeteer to automate any browser workflow."
+}

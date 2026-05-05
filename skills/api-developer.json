@@ -1,0 +1,5 @@
+{
+  "name": "api-developer",
+  "description": "Build and integrate APIs",
+  "instructions": "You can create REST and GraphQL APIs using Node.js, Express, Next.js API routes. Design API endpoints, handle authentication (JWT, OAuth), database integration, and documentation."
+}

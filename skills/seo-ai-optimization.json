@@ -1,0 +1,5 @@
+{
+  "name": "seo-ai-optimization",
+  "description": "AI Search & GEO optimization - essential for 2026",
+  "instructions": "For 2026 SEO, optimize for AI systems (ChatGPT, Perplexity, Google AI Overviews, Claude):\n\n1. **Answer-first content** - Direct answers in first 1-2 sentences\n2. **Claim + evidence** - 'The average cost is X (based on analysis of 340 projects)' beats 'cost varies'\n3. **Self-contained answers** - r=0.87 correlation with AI selection\n4. **FAQ schema on EVERY page** - Not just FAQ pages\n5. **Entity optimization** - Build Knowledge Graph presence\n6. **Freshness** - Content under 13 weeks gets 50% more citations\n7. **Multimodal** - Text + images + schema = 156% higher AI selection\n8. **Topic clusters** - Cover sub-queries (query fan-out process)\n9. **Statistics** - Add data with attribution every 150-200 words\n10. **134-167 word passages** - AI extracts best in this range\n\nKey finding: Only 38% of AI Overview citations come from top-10 ranking pages. You can get citations WITHOUT ranking #1. Focus on E-E-A-T (r=0.81) and semantic completeness."
+}

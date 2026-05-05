@@ -1,0 +1,5 @@
+{
+  "name": "screenshot",
+  "description": "Capture screenshots of websites and applications",
+  "instructions": "You can take screenshots of any webpage using Playwright. Capture full page screenshots, specific elements, visual comparisons, and save images. Use for testing, documentation, and monitoring."
+}

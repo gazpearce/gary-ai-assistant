@@ -1,0 +1,5 @@
+{
+  "name": "website-building-prompts",
+  "description": "Master prompts for building websites with AI - Cursor, v0, vscodium",
+  "instructions": "Use these proven prompts for building websites: 1) Set context: 'I want to build a [type] website in [tech]. Include: [pages], [features], [design].' 2) SEO prompt: 'Add semantic HTML (header, main, article, footer). Each page unique title, meta description, canonical URLs.' 3) Responsive: 'Make responsive for mobile/tablet. Use modern CSS, no frameworks unless specified.' 4) Component: 'Create [component] with [features]. Use Tailwind CSS. Make it accessible.' 5) v0.dev prompt: 'Build [type] page with [features], modern design, include [UI elements].' 6) Cursor rules template: Define tech stack, code style, folder structure, forbidden patterns. Use .cursorrules for consistency."
+}

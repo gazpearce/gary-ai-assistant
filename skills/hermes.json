@@ -1,0 +1,5 @@
+{
+  "name": "hermes",
+  "description": "Connect to Hermes AI assistant with 20+ skills including search, github, devops, research",
+  "instructions": "Hermes is running locally with skills: duckduckgo-search, github, software-development, devops, data-science, mlops, research, email, social-media, productivity, note-taking, media, gaming, creative, and more. Check ~/.hermes/skills for available capabilities."
+}

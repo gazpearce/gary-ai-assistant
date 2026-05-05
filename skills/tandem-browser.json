@@ -1,0 +1,5 @@
+{
+  "name": "tandem-browser",
+  "description": "Use Tandem browser for automation via local API at http://127.0.0.1:8765",
+  "instructions": "Use Tandem Browser API for web automation: browse pages, take snapshots, interact with elements, analyze SPAs. API token required from ~/.tandem/api-token. Endpoints: /tabs/open, /snapshot, /navigate, /execute-js, /find, /wingman-alert. Check /status first to confirm Tandem is running."
+}

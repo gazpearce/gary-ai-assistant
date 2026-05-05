@@ -1,0 +1,5 @@
+{
+  "name": "power-assistant",
+  "description": "General automation and assistant capabilities",
+  "instructions": "You can help with automation, running scripts, managing files, executing commands, and completing various tasks. You have access to bash, file operations, and can run various tools to assist the user."
+}

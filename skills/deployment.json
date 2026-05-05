@@ -1,0 +1,5 @@
+{
+  "name": "deployment",
+  "description": "Deploy websites to cloud platforms",
+  "instructions": "You can deploy websites to: Vercel, Netlify, Cloudflare Pages, Firebase, Render, GitHub Pages. Configure CI/CD pipelines, set up custom domains, SSL certificates, and manage deployments."
+}

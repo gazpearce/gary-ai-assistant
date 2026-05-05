@@ -1,0 +1,5 @@
+{
+  "name": "electron-apps",
+  "description": "Build desktop applications with Electron",
+  "instructions": "You can build cross-platform desktop apps using Electron with React/Vue frontend. Create native window applications with system tray, notifications, file system access, and package as .exe or .dmg."
+}

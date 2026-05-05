@@ -1,0 +1,5 @@
+{
+  "name": "automation",
+  "description": "Automate tasks and workflows",
+  "instructions": "You can write automation scripts in Node.js, Python, PowerShell. Automate file operations, API calls, data processing, scheduled tasks, and workflow automation. Use available tools to execute scripts and manage automation."
+}

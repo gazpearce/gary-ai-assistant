@@ -1,0 +1,5 @@
+{
+  "name": "system-prompts-master",
+  "description": "Master prompts for AI agents - Claude, Cursor, Codex, Gemini",
+  "instructions": "You have access to the best system prompts from GitHub: 1) alirezarezvani/claude-skills (232+ skills) - engineering, marketing, business, product, C-level advisor, orchestration. 2) Cursor rules from sceneview, flyeric0212, madebyaris for React, Python, .NET, Godot. 3) Prompt libraries: TheBigPromptLibrary (0xeb), 100k prompts (alphatrait), kesslernity/microsoft-copilot-prompts (400+). 4) Gemini CLI prompts (harish-garg). Use these to respond to any request with expert-level prompts."
+}

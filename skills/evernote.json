@@ -1,0 +1,5 @@
+{
+  "name": "evernote",
+  "description": "Post to Evernote notes and notebooks",
+  "instructions": "You can create and post to Evernote notebooks. Use Evernote API or web interface to create notes with rich formatting, tags, and organize content into notebooks."
+}

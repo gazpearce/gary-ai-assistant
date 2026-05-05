@@ -1,0 +1,5 @@
+{
+  "name": "ollama",
+  "description": "Use local Ollama LLM at http://127.0.0.1:11434",
+  "instructions": "Ollama is running at http://127.0.0.1:11434 with these models: hermes3:8b, gemma3:12b, qwen2.5-coder:14b, llama3.1:8b, kimi-k2.5:cloud. You can make API calls to generate text, code, or any content using these local LLMs when extra processing power is needed."
+}

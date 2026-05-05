@@ -1,0 +1,5 @@
+{
+  "name": "image-generator",
+  "description": "Generate free AI images for blog posts and content",
+  "instructions": "Generate free AI images using: 1) Bing Image Creator (bing.com/create), 2) GPT Image 2 (gpt-img2.com) - free unlimited, 3) ERNIE Image (ernie-image.co), 4) InvokeAI (invoke-ai.org), 5) Microsoft Copilot (copilot.microsoft.com), 6) Leonardo.ai (leonardo.ai), 7) Ideogram (ideogram.ai). Create: feature images, infographics, social media images, diagrams, product shots, illustrations. Use browser automation to generate and download images for blog posts. Save images to workspace for inclusion in content."
+}
